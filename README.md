@@ -18,7 +18,7 @@ Build out python project Scaffold:
 * Dockerfile
 * Command-line-tool
 * Microservices
-*mkdir devopslib (touch devopslib/__init__.py) this where I will put some codes 
+* mkdir devopslib (touch devopslib/__init__.py) this where I will put some codes!
 
 1. Create a virtualenv
 
